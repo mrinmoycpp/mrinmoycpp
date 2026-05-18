@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/mrinmoydhali](https://www.linkedin.com/in/mrinmoy-dhali-4ab091379/?skipRedirect=true)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrinmoydhali" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/mrinmoy-dhali-4ab091379/?skipRedirect=true]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrinmoydhali" height="30" width="40" /></a>
 <a href="https://instagram.com/mr1nmmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr1nmmoy" height="30" width="40" /></a>
 <a href="https://www.behance.net/mrinmoygfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mrinmoygfx" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mrinmoydhali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrinmoydhali" height="30" width="40" /></a>
