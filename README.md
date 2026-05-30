@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinmoycpp&label=Profile%20views&color=0e75b6&style=flat" alt="mrinmoycpp" /> </p>
 
-- 🌱 I’m currently learning **Backend Development, Tableu in order to make a backend database**
-
-- 💬 Ask me about **react, vue**
+- 🌱 I’m currently learning **Backend Development**
 
 - 📫 How to reach me **dhalimrinmoy93@gmail.com**
 
